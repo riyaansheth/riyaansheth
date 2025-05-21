@@ -1,6 +1,6 @@
 - 👋 I’m @riyaansheth
 - 👀 I’m interested in programming and space
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently in second year of my comp science degree
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me instagram @riyaansheth
 
