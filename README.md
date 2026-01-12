@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/riyaansheth](https://github.com/riyaansheth)
 
-- 💬 Ask me about **astronomy, linux and art**
+- 💬 Ask me about **astronomy, linux and politics**
 
 - 📫 How to reach me **riyaansheth@gmail.com**
 
