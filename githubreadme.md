@@ -1,34 +1,17 @@
-<!-- ═══════════════════════════ ANIMATED HEADER ═══════════════════════════ -->
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Riyaan%20Sheth&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%2B%20AI%20Builder&descSize=18&descAlignY=60" width="100%" alt="Riyaan Sheth" />
 
-<!-- ─────────────────────────── TYPING ANIMATION ─────────────────────────── -->
 
-<a href="https://github.com/riyaansheth">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI-powered+apps+%26+automation+pipelines;React+%7C+Node+%7C+Flask+%7C+Python+%7C+LLMs;Shipping+products+that+solve+real+problems" alt="Typing SVG" />
-</a>
 
-<!-- ─────────────────────────── CLICKABLE BUTTONS ────────────────────────── -->
 
-<p>
-  <a href="https://www.linkedin.com/in/riyaansheth/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://riyaanportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:riyaansheth@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=riyaansheth&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile views" />
 
-</div>
+  
+
+
+
+
+
 
 ---
 
@@ -47,13 +30,24 @@ I build practical software across the stack: React frontends, Node/Flask backend
 
 ## System Telemetry
 
+
 | Signal                   | Value |
 | ------------------------ | ----- |
 | Internships              | 4+    |
 | Hackathons               | 3     |
 | Traffic growth delivered | 30%   |
 
+
+
+
 ## Tech Stack
+
+
+
+
+
+
+
 
 | System      | Tools                                                 |
 | ----------- | ----------------------------------------------------- |
@@ -65,11 +59,15 @@ I build practical software across the stack: React frontends, Node/Flask backend
 | Robotics    | Arduino, C++, MATLAB                                  |
 | Growth      | SEO, content strategy, analytics                      |
 
+
 ```txt
 currently_compiling = ["DSA", "advanced JavaScript", "AI automation", "full-stack systems"]
 ```
 
+
+
 ## Featured Builds
+
 
 | Project                                                                                           | What it does                                                                                                              | Stack                                                             |
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -78,6 +76,9 @@ currently_compiling = ["DSA", "advanced JavaScript", "AI automation", "full-stac
 | Google Review AI Bot                                                                              | Streams Google Business Profile reviews to Telegram and drafts context-aware AI replies for one-click publishing.         | Python, Claude API, Google Business Profile API, Telegram Bot API |
 | [OSS Onboard Intelligence System](https://github.com/riyaansheth/oss_onboard_intelligence_system) | Helps open-source contributors understand complex repositories with AI-generated onboarding guides and architecture maps. | React, Node.js, LLMs, GitHub API                                  |
 | [AI Job Agent](https://github.com/riyaansheth/Ai-Job-Agent)                                       | Autonomous job application system with resume parsing, RAG-based matching, and Playwright automation.                     | Python, RAG, Playwright, LLMs                                     |
+
+
+
 
 ## Mission Log
 
@@ -92,14 +93,16 @@ currently_compiling = ["DSA", "advanced JavaScript", "AI automation", "full-stac
       Taught Arduino hardware, C++ programming, and robotics fundamentals
       to students aged 16-18 through hands-on final projects.
 
-2025  SEO & Marketing           VIDVATTA EdTech
-      Wrote technical content, hosted masterclasses, and ran SEO campaigns
-      that improved organic reach and traffic performance.
-
 2024  Cloud IT Engineer Intern  Farz AI
       Managed AWS and Azure infrastructure, audited cloud resources,
       and supported resource organization for production systems.
+
+2025  SEO & Marketing           VIDVATTA EdTech
+      Wrote technical content, hosted masterclasses, and ran SEO campaigns
+      that improved organic reach and traffic performance.
 ```
+
+
 
 ## Wins
 
@@ -109,41 +112,29 @@ currently_compiling = ["DSA", "advanced JavaScript", "AI automation", "full-stac
 - Python and JavaScript certifications via GeeksForGeeks.
 - Internship experience across AI automation, cloud engineering, robotics instruction, and marketing.
 
+
+
 ## GitHub Signal
 
-<div align="center">
 
-<!-- Contribution snake — generated by .github/workflows/snake.yml, served from the `output` branch -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riyaansheth/riyaansheth/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riyaansheth/riyaansheth/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/riyaansheth/riyaansheth/output/github-snake.svg" width="100%" />
-</picture>
 
-<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=riyaansheth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb" alt="GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=riyaansheth&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff" alt="GitHub streak" />
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyaansheth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=8" alt="Top languages" />
-
-</div>
 
 ---
 
-<div align="center">
+
 
 ### Let's build useful things.
 
-Open to freelance projects, internships, and interesting collaborations.
-Based in Mumbai, working remotely worldwide.
+Open to freelance projects, internships, and interesting collaborations. Based in Mumbai, working remotely worldwide.
 
-<a href="https://www.linkedin.com/in/riyaansheth/">
-  <img src="https://img.shields.io/badge/Reach%20out%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
 
-</div>
+  
+  
+
+
+
+
